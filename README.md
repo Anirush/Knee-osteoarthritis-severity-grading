@@ -1,4 +1,5 @@
-Deep Learning Model for Knee Classification
+# Deep Learning Model for Knee Classification
+
 This repository contains code for a deep learning model aimed at classifying knee images into different categories: Healthy, Doubtful, Moderate, and Severe. Below is an overview of the project structure and key components:
 
 Project Structure:
