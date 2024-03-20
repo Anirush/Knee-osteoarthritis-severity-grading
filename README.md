@@ -11,7 +11,7 @@ Setup Environment:
 Ensure you have Python installed (preferably Python 3.x).
 Install required dependencies using pip install -r requirements.txt.
 Dataset Preparation:
-
+get a dataset from kaggle
 Organize your dataset into three folders: train, test, and val, each containing subfolders for different classes (Healthy, Doubtful, Moderate, Severe).
 Training the Model:
 
